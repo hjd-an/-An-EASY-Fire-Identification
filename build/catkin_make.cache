@@ -1,0 +1,2 @@
+test
+-DCATKIN_DEVEL_PREFIX=/home/hjd/FIRE_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hjd/FIRE_ws/install -G Unix Makefiles
